@@ -24,4 +24,4 @@ The following tools were used:
 * Git
 
 ## Screen 
-![Screen](https://github.com/tomaszolejniczak/imageuploader/blob/master/images/imageuploader.jpg)
+![Screen](https://github.com/tomaszolejniczak/ImageUploader/blob/master/images/imageuploader.jpeg)
