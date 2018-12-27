@@ -19,6 +19,6 @@ Project is created with:
 * Node.js
 
 ## Tools
-The following tools were used
+The following tools were used:
 * NPM
 * Git
