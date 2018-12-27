@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Tools](#tools)
+* [Screen](#screen)
 
 ## General info
 Image upload application in Node.js.
