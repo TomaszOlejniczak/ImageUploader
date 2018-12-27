@@ -22,3 +22,6 @@ Project is created with:
 The following tools were used:
 * NPM
 * Git
+
+## Screen 
+![Screen](https://github.com/tomaszolejniczak/imageuploader/blob/master/images/imageuploader.jpg)
